@@ -4,7 +4,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/sellernomics/golog"
+  name = "gitlab.com/getlytica/golog"
 
 [[constraint]]
   branch = "master"
@@ -12,7 +12,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/sellernomics/disclosure"
+  name = "gitlab.com/getlytica/disclosure"
 
 [[constraint]]
   name = "github.com/onsi/ginkgo"

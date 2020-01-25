@@ -1,6 +1,6 @@
 package moocro
 
-import "github.com/sellernomics/disclosure"
+import "gitlab.com/getlytica/disclosure"
 
 // CreateRequestFun a factory for requests.
 type CreateRequestFun func() interface{}

@@ -2,7 +2,7 @@
 
 package moocro
 
-import "github.com/sellernomics/disclosure"
+import "gitlab.com/getlytica/disclosure"
 
 type feature struct {
 	client Client

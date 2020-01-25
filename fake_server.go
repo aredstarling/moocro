@@ -3,7 +3,7 @@ package moocro
 import (
 	"fmt"
 
-	"github.com/sellernomics/disclosure"
+	"gitlab.com/getlytica/disclosure"
 )
 
 // FakeServer for tetsing

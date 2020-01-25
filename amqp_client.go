@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/sellernomics/golog"
+	"gitlab.com/getlytica/golog"
 	"github.com/streadway/amqp"
 )
 

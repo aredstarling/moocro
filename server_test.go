@@ -5,8 +5,8 @@ package moocro
 import (
 	"sync"
 
-	"github.com/sellernomics/disclosure"
-	"github.com/sellernomics/golog"
+	"gitlab.com/getlytica/disclosure"
+	"gitlab.com/getlytica/golog"
 )
 
 const (

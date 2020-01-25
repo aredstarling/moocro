@@ -1,7 +1,7 @@
 package moocro
 
 import (
-	"github.com/sellernomics/disclosure"
+	"gitlab.com/getlytica/disclosure"
 )
 
 // Route defines an inteface for all routes

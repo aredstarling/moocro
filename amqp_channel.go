@@ -1,8 +1,8 @@
 package moocro
 
 import (
-	"github.com/sellernomics/golog"
 	multierror "github.com/hashicorp/go-multierror"
+	"gitlab.com/getlytica/golog"
 	"github.com/streadway/amqp"
 )
 
