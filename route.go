@@ -1,7 +1,7 @@
 package moocro
 
 import (
-	"gitlab.com/getlytica/disclosure"
+	"gitlab.com/lyticaa-public/disclosure"
 )
 
 // Route defines an inteface for all routes

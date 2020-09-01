@@ -3,8 +3,8 @@ package moocro
 import (
 	"errors"
 
-	"gitlab.com/getlytica/disclosure"
-	"gitlab.com/getlytica/golog"
+	"gitlab.com/lyticaa-public/disclosure"
+	"gitlab.com/lyticaa-public/golog"
 	"github.com/streadway/amqp"
 )
 

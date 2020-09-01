@@ -3,7 +3,7 @@ package moocro
 import (
 	"fmt"
 
-	"gitlab.com/getlytica/disclosure"
+	"gitlab.com/lyticaa-public/disclosure"
 )
 
 // FakeServer for tetsing

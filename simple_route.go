@@ -1,6 +1,6 @@
 package moocro
 
-import "gitlab.com/getlytica/disclosure"
+import "gitlab.com/lyticaa-public/disclosure"
 
 // CreateRequestFun a factory for requests.
 type CreateRequestFun func() interface{}

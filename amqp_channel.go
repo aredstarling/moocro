@@ -2,7 +2,7 @@ package moocro
 
 import (
 	multierror "github.com/hashicorp/go-multierror"
-	"gitlab.com/getlytica/golog"
+	"gitlab.com/lyticaa-public/golog"
 	"github.com/streadway/amqp"
 )
 

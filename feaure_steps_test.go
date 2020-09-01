@@ -2,7 +2,7 @@
 
 package moocro
 
-import "gitlab.com/getlytica/disclosure"
+import "gitlab.com/lyticaa-public/disclosure"
 
 type feature struct {
 	client Client
