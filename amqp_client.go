@@ -1,4 +1,4 @@
-package moocro
+ package moocro
 
 import (
 	"errors"
